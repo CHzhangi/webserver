@@ -1,0 +1,1 @@
+static要在类外初始化，否则会报undefined reference 的错
